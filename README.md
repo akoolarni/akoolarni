@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @akoolarni
-- 👀 I’m interested in web development and related stuffs.
-- 📫 How to reach me : mail-progeekak@gmail.com
+Hi, i am Arin;
+Tech I am familiar @ -> ReactJs -> p5.js -> flutter -> nodejs
 
 <!---
 akoolarni/akoolarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
